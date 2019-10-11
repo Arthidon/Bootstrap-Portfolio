@@ -28,20 +28,30 @@ a:hover {
   .footerinfo {
     position: relative;
   }
-  
+  .cardlinks {
+    position: absolute;
+    bottom: 5px;
+   
+    
+  }
 #name {
   /*font-family: 'Permanent Marker', cursive; */
   font-family: 'Julius Sans One', sans-serif; 
   font-size: 15px;
   line-height: 1.3;
-
-
+}
+.navbar {
+ /* background-color: #4C5454;*/
+}
+.jumbotron {
+  /*background-color: #EEEEFF;*/
 }
 #summary {
   font-family: 'Julius Sans One', sans-serif; 
   font-size: 13px;
   text-indent: 20px;
-  font-weight: 550;
+  font-weight: 650;
+  
 }
   #nav {
   position:absolute;
