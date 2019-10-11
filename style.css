@@ -31,8 +31,12 @@ a:hover {
   .cardlinks {
     position: absolute;
     bottom: 5px;
-   
+  }
+  .port {
+    font-size: 12px;
+    width: 65px;
     
+    margin: 0 auto;
   }
 #name {
   /*font-family: 'Permanent Marker', cursive; */
